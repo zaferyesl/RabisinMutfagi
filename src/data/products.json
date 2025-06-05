@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "name": "Ev Yapımı Kek",
+    "description": "Anne usulü, puf puf kabaran lezzetli kek. Herkesin damak zevkine uygun.",
+    "price": 75.00,
+    "preparationTime": "Siparişten 2 saat sonra hazır",
+    "imageUrl": "https://via.placeholder.com/300x200?text=Ev+Yapimi+Kek",
+    "isPublished": true,
+    "category": "Tatlılar"
+  },
+  {
+    "id": "2",
+    "name": "Susamlı Poğaça",
+    "description": "Taze susamlarla bezenmiş, içi yumuşacık poğaçalar. Çay saatlerinin vazgeçilmezi.",
+    "price": 10.00,
+    "preparationTime": "Siparişten 1 saat sonra hazır",
+    "imageUrl": "https://via.placeholder.com/300x200?text=Susamli+Pogaca",
+    "isPublished": true,
+    "category": "Tuzlular"
+  },
+  {
+    "id": "3",
+    "name": "Çikolatalı Kurabiye",
+    "description": "Bol çikolata parçacıklı, kıtır kıtır kurabiyeler. Kahve yanında harika gider.",
+    "price": 8.50,
+    "preparationTime": "Siparişten 1.5 saat sonra hazır",
+    "imageUrl": "https://via.placeholder.com/300x200?text=Cikolatali+Kurabiye",
+    "isPublished": true,
+    "category": "Kurabiyeler"
+  },
+  {
+    "id": "4",
+    "name": "Elmalı Turta",
+    "description": "İçi bol elmalı, tarçın kokulu ev yapımı turta.",
+    "price": 90.00,
+    "preparationTime": "Siparişten 3 saat sonra hazır",
+    "imageUrl": "https://via.placeholder.com/300x200?text=Elmali+Turta",
+    "isPublished": true,
+    "category": "Pastalar"
+  },
+  {
+    "id": "5",
+    "name": "Peynirli Poğaça",
+    "description": "Mis gibi kokan, puf puf peynirli poğaçalar.",
+    "price": 12.00,
+    "preparationTime": "Siparişten 1 saat sonra hazır",
+    "imageUrl": "https://via.placeholder.com/300x200?text=Peynirli+Pogaca",
+    "isPublished": true,
+    "category": "Tuzlular"
+  }
+] 
